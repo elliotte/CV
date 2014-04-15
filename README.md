@@ -22,7 +22,7 @@ Web Development Skills
 Web-Dev Bootcamp: Jan-Mar 2014
 ==
 Highly selective 12 week full-time course
-Ruby, object oriented programming and software design
-Full stack web development
-Pair programming and teamwork
-Fina Project: 
+ - Ruby, object oriented programming and software design
+ - T&BDD full stack web development
+ - Pair programming and teamwork
+ - Fina Project: 
