@@ -1,7 +1,7 @@
 Edward Elliott
 ==
 Recent graduate and full-stack web developer based in London. Advocate and practitioner of TDD with a love for clean, simple and structured code.
-=
+
 Web Development Skills
 ==
  - Agile values, principles and practice Object​oriented principles and design Test​driven development
@@ -18,7 +18,7 @@ WebSockets
 User authentication and authorisation with bcrypt and Devise Integration of APIs including Twilio, Stripe and Paperclip Mailgun API with RestClient
 GitHub Flavoured Markdown
 Deployment to Heroku
-=
+
 Web Development Bootcamp: October—December 2013
 ==
 Highly selective 12 week full-time course
