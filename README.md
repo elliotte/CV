@@ -1,6 +1,6 @@
 Edward Elliott
 ==
-Ex-accountant / Recent full-stack web developer based in London, seeking a junior developer position and new challenge to further my web development skillset.  Advocate and practitioner of TDD with a love for clean, simple and structured code, and I enjoy nothing better than wiring into some hardcore coding.
+Ex-accountant / Recent full-stack web developer based in London, seeking a junior developer position and new challenge to further my web development skillset.  Advocate and practitioner of TDD with a love for clean, simple and structured code, and I enjoy nothing better than wiring into some hardcore test driven coding.
 
 Friendly and outgoing, and believe I can adapt quickly and work effectively with new teams.
 Web Development Skills
@@ -23,7 +23,7 @@ Web Development Skills
 Makers Academy
 ==
 A highly selective 12 week full-time web-development BootCamp course based in London.
- - undertaken Jan-Mar 2014 
+ - Course undertaken Jan-Mar 2014 
  - Ruby, object oriented programming and software design
  - T&BDD full stack web development
  - Pair programming and teamwork
