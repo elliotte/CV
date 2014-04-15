@@ -19,9 +19,9 @@ Web Development Skills
  - GitHub Flavoured Markdown
  - Deployment to Heroku
 
-Web-Dev Bootcamp: Jan-Mar 2014
+Makers Academy
 ==
-Highly selective 12 week full-time course
+A highly selective 12 week full-time web-development BootCamp course based in London.
  - Ruby, object oriented programming and software design
  - T&BDD full stack web development
  - Pair programming and teamwork
