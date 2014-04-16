@@ -27,4 +27,5 @@ A highly selective 12 week full-time web-development BootCamp course based in Lo
  - Ruby, object oriented programming and software design
  - T&BDD full stack web development
  - Pair programming and teamwork
- - Fina Project: 
+ - Final solo Project: Waza Report (see gitHub Repo)
+ - Final Team Project: http://evening-oasis-3053.herokuapp.com/
