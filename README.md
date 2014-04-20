@@ -14,7 +14,7 @@ Web Development Skills
  - Sinatra and DataMapper
  - Unit testing with RSpec and Jasmine Integration testing with Capybara
  - Behaviour driven development with Cucumber FactoryGirl fixtures and Shoulda matchers 
- - Version control with git and GitHub 
+ - Version control with GitHub 
  - JavaScript, jQuery and CoffeeScript
  - HTML5, ERB and Haml
  - CCS3, Twitter Bootstrap
