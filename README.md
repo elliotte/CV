@@ -1,8 +1,9 @@
 Edward Elliott
 ==
-Ex-accountant / Recent full-stack web developer based in London, seeking a junior developer position and new challenge to further my web development skillset.  Advocate and practitioner of TDD with a love for clean, simple and structured code, and I enjoy nothing better than wiring into some hardcore test driven coding.
+Ex-accountant / Recent full-stack web developer based in London, seeking a developer position and new challenge to further my developer skillset.  Advocate and practitioner of TDD with a love for clean, simple and structured code.
 
 Friendly and outgoing, and believe I can adapt quickly and work effectively with new teams.
+
 Web Development Skills
 ==
  - Agile values, principles and practice Object​oriented principles and design Test​driven development
