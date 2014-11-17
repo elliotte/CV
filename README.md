@@ -26,7 +26,7 @@ Web Development Skills
 Makers Academy
 ==
 A highly selective 12 week full-time web-development BootCamp course based in London.
- - Course undertaken Nov-13-Feb-14 
+ - Course undertaken Nov-12-Feb-12 
  - Ruby, object oriented programming and software design
  - T&BDD full stack web development
  - Pair programming and teamwork
