@@ -1,35 +1,29 @@
 Edward Elliott
 ==
-Ex-accountant / Recent full-stack web developer based in London, seeking a developer position and new challenge to further my developer skillset.  Advocate and practitioner of TDD with a love for clean, simple and structured code.
+Ex-accountant / Recent full-stack web developer based in Belfast, seeking a developer position and new challenge to further my skillsets.  Advocate and practitioner of TDD with a love for clean, simple and structured code.  
 
-Friendly and outgoing, and believe I can adapt quickly and work effectively with new teams.
+Friendly and outgoing, and believe I can adapt quickly and work effectively with new teams.  Enjoy jumping into projects and building solutions with people.
 
 Web Development Skills
 ==
- - Agile values, principles and practice Object​oriented principles and design Test​driven development
- - Pair programming
- - Ruby 2.0
- - JavaScript, jQuery and CoffeeScript
- - Rails 4
- - PostgreSQL
- - Sinatra and DataMapper
- - Unit testing with RSpec and Jasmine Integration testing with Capybara
- - Behaviour driven development with Cucumber FactoryGirl fixtures and Shoulda matchers 
- - Version control with GitHub 
- - Express, NodeJS and MongoDB
- - HTML5, ERB and Haml
- - CCS3, Twitter Bootstrap
- - WebSockets
- - User authentication and authorisation with bcrypt and Devise Integration of APIs including Twilio, Stripe and Paperclip  - Mailgun API with RestClient
+
+Core languages
+==
+Ruby, Javascript, C#, CSS, HTML
+
+Web Frameworks
+==
+Ruby on rails, Node.js, Sinatra, Express, AngularJS, React.js
+
+Tools
+==
+
+ - PostgreSQL | MongoDB | NoSQL
+ - rspec | Jasmine | Cucumber | FactoryGirl
+ - AWS | Google APIs | Facebook API
+ - Paypal | Stripe | Twilio 
  - Google, Amazon, Twitter and Facebook API integrations
  - GitHub Flavoured Markdown
- - Deployment to Heroku
+ - Heroku | Azure | Rackspace
 
-Makers Academy
-==
-A highly selective 12 week full-time web-development BootCamp course based in London.
- - Course undertaken Nov-12-Feb-13 
- - Ruby, object oriented programming and software design
- - T&BDD full stack web development
- - Pair programming and teamwork
- - Final Team Project: http://evening-oasis-3053.herokuapp.com/
+
