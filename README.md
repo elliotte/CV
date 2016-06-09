@@ -29,6 +29,7 @@ Tools
 APIs
 --
 
+ - Google | Office365 | Dropbox
  - AWS | Twitter | Facebook
  - Paypal | Stripe | Twilio 
 
