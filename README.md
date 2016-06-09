@@ -12,18 +12,24 @@ Core languages
 Ruby, Javascript, C#, CSS, HTML
 
 Web Frameworks
-==
-Ruby on rails, Node.js, Sinatra, Express, AngularJS, React.js
+=
+
+Ruby on rails | Sinatra | Express
+NodeJS | AngularJS | React.js
 
 Tools
-==
+=
 
  - PostgreSQL | MongoDB | NoSQL
  - rspec | Jasmine | Cucumber | FactoryGirl
- - AWS | Google APIs | Facebook API
- - Paypal | Stripe | Twilio 
- - Google, Amazon, Twitter and Facebook API integrations
- - GitHub Flavoured Markdown
  - Heroku | Azure | Rackspace
+ 
+APIs
+=
+
+ - AWS | Twitter | Facebook
+ - Paypal | Stripe | Twilio 
+
+
 
 
