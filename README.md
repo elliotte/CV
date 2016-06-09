@@ -8,24 +8,24 @@ Web Development Skills
 ==
 
 Core languages
-==
+--
 Ruby, Javascript, C#, CSS, HTML
 
 Web Frameworks
-=
+--
 
 Ruby on rails | Sinatra | Express
 NodeJS | AngularJS | React.js
 
 Tools
-=
+--
 
  - PostgreSQL | MongoDB | NoSQL
  - rspec | Jasmine | Cucumber | FactoryGirl
  - Heroku | Azure | Rackspace
  
 APIs
-=
+--
 
  - AWS | Twitter | Facebook
  - Paypal | Stripe | Twilio 
