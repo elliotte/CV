@@ -1,6 +1,8 @@
 Edward Elliott
 ==
-Ex-accountant / Recent full-stack web developer based in Belfast, seeking a developer position and new challenge to further my skillsets.  Advocate and practitioner of TDD with a love for clean, simple and structured code.  
+Full-stack web developer based in Belfast, seeking a developer position and new challenge to further my skillsets. 
+
+Advocate and practitioner of TDD with a love for clean, simple and structured code.  
 
 Friendly and outgoing, and believe I can adapt quickly and work effectively with new teams.  Enjoy jumping into projects and building solutions with people.
 
