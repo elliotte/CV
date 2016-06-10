@@ -11,13 +11,12 @@ Web Development Skills
 
 Core languages
 --
-Ruby, Javascript, C#, CSS, HTML
+Ruby, Javascript, NodeJS, C#, SCSS, CSS, HTML
 
 Web Frameworks
 --
 
-Ruby on rails | Sinatra | Express
-NodeJS | AngularJS | React.js
+Ruby on rails | Sinatra | Express | AngularJS | React.js
 
 Tools
 --
@@ -25,6 +24,7 @@ Tools
  - PostgreSQL | MongoDB | NoSQL
  - rspec | Jasmine | Cucumber | FactoryGirl
  - Heroku | Azure | Rackspace
+ - Bourbon | Grunt | Github
  
 APIs
 --
