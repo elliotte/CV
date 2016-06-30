@@ -1,10 +1,10 @@
 Edward Elliott
 ==
-Full-stack web developer based in Belfast, seeking a developer position and new challenge to further my skillsets. 
+Full-stack web developer based in Belfast.
 
 Advocate and practitioner of TDD with a love for clean, simple and structured code.  
 
-Friendly and outgoing, and believe I can adapt quickly and work effectively with new teams.  Enjoy jumping into projects and building solutions with people.
+Friendly and outgoing, and believe I can adapt quickly and work effectively with new teams.  Enjoy jumping into projects and building solutions with people based on customer user experience.
 
 Web Development Skills
 ==
@@ -21,10 +21,12 @@ Ruby on rails | Sinatra | Express | AngularJS | React.js
 Tools
 --
 
- - PostgreSQL | MongoDB | NoSQL
+ - PostgreSQL | MongoDB | NoSQL | Elastic Search
+ - Heroku | Google Cloud | AWS | Azure | Rackspace
  - rspec | Jasmine | Cucumber | FactoryGirl
- - Heroku | Azure | Rackspace
- - Bourbon | Grunt | Github
+ - Bourbon | Bootstrap | Material UI
+ - Gulp | Grunt | Selenium
+ - Github
  
 APIs
 --
