@@ -11,22 +11,24 @@ Web Development Skills
 
 Core languages
 --
-Ruby, Javascript, NodeJS, C#, SCSS, CSS, HTML
+Ruby, Javascript, Python, Java, React, SCSS, CSS, HTML
 
 Web Frameworks
 --
 
-Ruby on rails | Sinatra | Express | AngularJS | React.js
+Ruby on rails | Sinatra | Express | Node | Flask
 
 Tools
 --
 
- - PostgreSQL | MongoDB | NoSQL | Elastic Search
- - Heroku | Google Cloud | AWS | Azure | Rackspace
- - rspec | Jasmine | Cucumber | FactoryGirl
- - Bourbon | Bootstrap | Material UI
- - Gulp | Grunt | Selenium
- - Github
+- PostgreSQL | MongoDB | NoSQL | Elastic Search
+- Heroku | Google Cloud | AWS | Azure | Rackspace
+- rspec | Jasmine | pyTest | JUnit | Cucumber | FactoryGirl
+- Bourbon | Bootstrap | Material UI
+- Gulp | Grunt | Selenium
+- Docker | Kubenetes
+- Github | GitLab
+
  
 APIs
 --
@@ -38,7 +40,7 @@ APIs
 Recent projects:
 --
 
- - https://www.archibox.com/
+ - https://www.hampdenandco.com/
  - https://www.orcamoney.com/
  - https://glistrr.com/
 
