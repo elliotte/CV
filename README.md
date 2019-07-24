@@ -1,4 +1,4 @@
-Edward Elliott
+E Elliott
 ==
 Full-stack web developer based in Belfast.
 
